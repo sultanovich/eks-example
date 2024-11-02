@@ -1,0 +1,9 @@
+requests-aws4auth==1.0.1
+Flask==2.2.2
+itsdangerous==2.1.2
+markupsafe==2.1.2
+Flask-Cors==3.0.10
+aws-xray-sdk==2.6.0
+stripe==2.56.0
+Werkzeug==2.2.3
+PyYAML==5.4.1
